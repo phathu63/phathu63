@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phathu63 I'm a vibrant and talented young female, a true force of creativity and passion.
 - 👀 I’m interested in learning different coding languages to reach my goals.
 - 🌱 I’m currently learning HTML,CSS,Javascript and python.
-- 💞️ I’m looking to collaborate on coding projects i think is a fantastic way to accelerate my learning and gain valuable experience.Participate on hackthons and coding challenges either locally or online, online coding paltforms. 
+- 💞️ I’m looking to collaborate on coding projects i think is a fantastic way to accelerate my learning and gain valuable experience.Participate on hackthons and coding challenges either locally or online and online coding platforms. 
 - 📫 How to reach me 
 Email address, phathutshedzo.munyai123@gmail.com
 <!---
